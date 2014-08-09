@@ -1,0 +1,19 @@
+{
+  "name" : "IAS-Server",
+  "version" : "0.0.0",
+  "description": "IAS server",
+  "main": "server.js",
+  "author": "Rahul Ramakrishnan",
+  "license": "MIT",
+  "engines": "0.10.x",
+  "dependencies" : {
+    "body-parser" : "1.3.x",
+    "express" : "4.4.x",
+    "request" : "2.36.x",
+    "mongoose" : "3.8.x",
+    "query-string": "x.x.x",
+    "twilio" : "1.6.x",
+    "underscore" : "1.6.x",
+    "url": "x.x.x"
+  }
+}
