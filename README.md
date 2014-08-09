@@ -3,12 +3,12 @@
 
 ###GENERAL
 1. The server is hosted on Digital Ocean
-2. https://cloud.digitalocean.com/droplets/1965189
-3. host address: 107.170.238.227:3000
+2. https://cloud.digitalocean.com/droplets/2289696
+3. host address: 104:131:135:109:3000
 
 ###SERVER LOGIN
-1. `ssh root@107.170.238.227`
-2. password: _SharkTank63$_
+1. `ssh root@104:131:135:109`
+2. password: _GIGI..._
 3. check if the node process is already running
    1. `ps -a` (check for a node process)
    2. whatsapp the team and ask if someone is using it
@@ -17,8 +17,8 @@
 
 ###MONGO HQ LOGIN
 1. url: _www.mongohq.com_
-2. login: _rahul.ramakrishnan10@gmail.com_
-3. password: _SharkTank63$_
+2. login: _cecile.peraire@sv.cmu.edu_
+3. password: _MONG..._
 4. database name: _fire logs_
 
 ###SCHEMA TRANSLATION
