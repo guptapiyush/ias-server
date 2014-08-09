@@ -7,7 +7,7 @@
 3. host address: 104:131:135:109:3000
 
 ###SERVER LOGIN
-1. `ssh root@104:131:135:109`
+1. `ssh root@104.131.135.109`
 2. password: _GIGI..._
 3. check if the node process is already running
    1. `ps -a` (check for a node process)
